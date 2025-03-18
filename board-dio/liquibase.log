@@ -1,0 +1,41 @@
+mar. 18, 2025 10:07:52 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202503151453.sql
+mar. 18, 2025 10:07:52 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202503151719.sql
+mar. 18, 2025 10:07:52 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202503151741.sql
+mar. 18, 2025 10:07:52 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202503151750.sql
+mar. 18, 2025 10:07:52 AM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202503172004.sql
+mar. 18, 2025 10:07:52 AM liquibase.changelog
+INFORMAÇÕES: Reading from board.databasechangelog
+Database is up to date, no changesets to execute
+mar. 18, 2025 10:07:52 AM liquibase.changelog
+INFORMAÇÕES: Reading from board.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+mar. 18, 2025 10:07:53 AM liquibase.util
+INFORMAÇÕES: UPDATE SUMMARY
+mar. 18, 2025 10:07:53 AM liquibase.util
+INFORMAÇÕES: Run:                          0
+mar. 18, 2025 10:07:53 AM liquibase.util
+INFORMAÇÕES: Previously run:               5
+mar. 18, 2025 10:07:53 AM liquibase.util
+INFORMAÇÕES: Filtered out:                 0
+mar. 18, 2025 10:07:53 AM liquibase.util
+INFORMAÇÕES: -------------------------------
+mar. 18, 2025 10:07:53 AM liquibase.util
+INFORMAÇÕES: Total change sets:            5
+mar. 18, 2025 10:07:53 AM liquibase.util
+INFORMAÇÕES: Update summary generated
+mar. 18, 2025 10:07:53 AM liquibase.lockservice
+INFORMAÇÕES: Successfully released change log lock
+mar. 18, 2025 10:07:53 AM liquibase.command
+INFORMAÇÕES: Command execution complete
