@@ -12,6 +12,7 @@ public class Main {
     public static void main(String[] args) throws SQLException {
         // Obtém a conexão diretamente com o método getConnection da classe ConnectionConfig
         try (var connection = getConnection()) {
+            
 
             new MigrationStrategy(connection).executeMigration();
         }
